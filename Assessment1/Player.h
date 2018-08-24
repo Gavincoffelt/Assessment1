@@ -5,4 +5,5 @@ struct player {
 
 
 };
-void printboard();
+void gameBase();
+void playerOneSelection();

@@ -5,17 +5,17 @@ int main() {
 	cout << "WELCOME TO TIC TAC TOE" << endl;
 	cout << "======================" << endl;
 
-	printboard();
+	gameBase();
+	
+	
 		
 	
 		
 		
-		
-		
-		               
+		      
 		
 
 
+	return 0;
 
-	system("pause");
 }
